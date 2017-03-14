@@ -1,0 +1,9 @@
+[03-Jul-2015 09:50:04 America/Denver] PHP Notice:  Undefined index: captcha_id in /home2/cardeman/public_html/alpha/public/sky-form/php_files/demo-contacts-process.php on line 3
+[03-Jul-2015 09:50:07 America/Denver] PHP Notice:  Undefined index: copy in /home2/cardeman/public_html/alpha/public/sky-form/php_files/demo-contacts-process.php on line 15
+[03-Jul-2015 09:52:22 America/Denver] PHP Notice:  Undefined index: captcha_id in /home2/cardeman/public_html/alpha/public/sky-form/php_files/demo-contacts-process.php on line 3
+[03-Jul-2015 09:52:24 America/Denver] PHP Notice:  Undefined index: copy in /home2/cardeman/public_html/alpha/public/sky-form/php_files/demo-contacts-process.php on line 15
+[03-Jul-2015 09:53:02 America/Denver] PHP Notice:  Undefined index: captcha_id in /home2/cardeman/public_html/alpha/public/sky-form/php_files/demo-contacts-process.php on line 3
+[03-Jul-2015 09:53:05 America/Denver] PHP Notice:  Undefined index: copy in /home2/cardeman/public_html/alpha/public/sky-form/php_files/demo-contacts-process.php on line 15
+[03-Jul-2015 09:53:41 America/Denver] PHP Notice:  Undefined index: captcha_id in /home2/cardeman/public_html/alpha/public/sky-form/php_files/demo-contacts-process.php on line 3
+[03-Jul-2015 09:53:43 America/Denver] PHP Notice:  Undefined index: copy in /home2/cardeman/public_html/alpha/public/sky-form/php_files/demo-contacts-process.php on line 15
+[23-Jul-2015 07:17:39 America/Denver] PHP Notice:  Undefined index: copy in /home2/cardeman/public_html/alpha/public/sky-form/php_files/demo-contacts-process.php on line 15

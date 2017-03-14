@@ -1,0 +1,2 @@
+[07-Aug-2015 01:24:50 America/Denver] PHP Notice:  Undefined index: captcha in /home2/cardeman/public_html/alpha/public/sky-form/captcha/process.php on line 8
+[07-Aug-2015 01:24:50 America/Denver] PHP Notice:  Undefined index: captcha_id in /home2/cardeman/public_html/alpha/public/sky-form/captcha/process.php on line 8
